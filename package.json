@@ -1,0 +1,12 @@
+{
+    "name": "pi3one",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_pi3one.json",
+            "credentialsFile": "flows_pi3one_cred.json"
+        }
+    }
+}
