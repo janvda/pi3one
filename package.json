@@ -12,7 +12,8 @@
         "node-red-node-openweathermap": "0.1.15",
         "node-red-node-ping": "0.0.15",
         "node-red-node-sqlite": "0.1.2",
-        "node-red-node-watson": "0.6.6"
+        "node-red-node-watson": "0.6.6",
+        "node-red-node-twitter": "1.0.1"
     },
     "node-red": {
         "settings": {
