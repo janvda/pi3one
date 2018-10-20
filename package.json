@@ -17,7 +17,7 @@
         "node-red-contrib-credentials": "0.2.0",
         "node-red-node-smooth": "0.1.0",
         "node-red-contrib-ibm-watson-iot": "0.2.8",
-        "node-red-contrib-dashboard-average-bars": "0.0.6"
+        "node-red-contrib-dashboard-sum-bars": "0.0.1"
     },
     "node-red": {
         "settings": {
